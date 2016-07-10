@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-char ch,name[20];
+char name[20];
 int i,j,no_ch,no_days,ascii=97,days,n;
 char t;
 printf("\n Enter the n value:");
